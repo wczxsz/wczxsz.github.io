@@ -1,21 +1,17 @@
-# townsmen
-townsmen demo
-
-## 贡献步骤
-先fork一份到自己的git仓库，
-再提交pull request
-
-## bootstrap
-http://getbootstrap.com/
-
-## git command
+## 网站目录结构
 ```
-git add . //添加修改文件
-git status //查看文件状态
-git commit -m "log msg" //提交到本地仓库
-git push //提交到远程master
+/            //根目录，对应域名 wczxsz.com
+/index.html  //网站首页
+/assets/img/...  //图片目录，图片都要存在这里
+/public/...         //对应5个频道目录和页面
 
-git pull origin gh-pages //拉取到gh-pages分支
-git checkout gh-pages //切换到gh-pages分支
-git branch gh-pages //创建gh-pages分支
+//下面是模板文件，可以用于复制创建新页面
+/channel.html   //频道模板
+/more.html      //频道更多模板
+/article.html   //文章详情页模板
 ```
+
+## 首页维护要求（/index.html）
+* 活动照片 */assets/img/home.jpg* 需要背景深色，像素尽量高点。
+* 人头像照片和企业logo照片像素为 *400×400*
+* 头像链接到*校友故事* 详情页面。
