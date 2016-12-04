@@ -1,0 +1,278 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 16px;
+    font-family: Helvetica Neue,Tahoma,Arial,PingFangSC-Regular,Hiragino Sans GB,Microsoft Yahei,sans-serif;
+}
+
+body {
+  background-color: #eee;
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 34px;
+}
+h2 > a {
+  text-decoration: none;
+  color: rgb(0, 150, 136);
+}
+h3,
+h4,
+blockquote {
+    color: rgb(0, 150, 136);
+    font-size: 20px;
+    line-height: 28px;
+}
+
+p {
+    color: #3e3e3e;
+    line-height: 28px;
+    letter-spacing: 1.6px;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 150, 136);
+    outline:none;
+}
+a:hover {
+  text-decoration: none;
+}
+
+section {
+    padding: 35px 20px 45px;
+    margin: 20px auto;
+    background-color: #fff;
+}
+
+section > div.title {
+  border-bottom: 1px solid #eee;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.page-header {
+    text-align: center;
+    border-bottom: 2px solid rgb(0, 150, 136);
+}
+
+blockquote {
+  border-left: 3px solid rgb(0, 150, 136);
+  margin: 10px 12px;
+  padding-left: 16px;
+}
+.media-body span {
+  margin-right: 8px;
+  font-size: 15px;
+  color: #8c8c8c;
+}
+
+/**
+navbar
+**/
+
+.navbar-default .navbar-nav>li>a {
+  color: #34495e;
+}
+
+.navbar-nav>li>a {
+    color: #34495e;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+  color: #42b983;
+  border-bottom: 3px solid #42b983;
+
+}
+
+.brand {
+    color: #2c3e50;
+    height: 50px;
+    overflow: hidden;
+    display: block;
+    text-decoration: none;
+}
+.brand:hover {
+  text-decoration: none;
+}
+
+.brand img {
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  line-height: 50px;
+  margin-left: 10px;
+  margin-right: 5px;
+}
+
+.brand span {
+    vertical-align: middle;
+    line-height: 50px;
+    height: 50px;
+    font-size: 25px;
+    display: inline-block;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+.wz-article iframe {
+  max-width: 100%;
+  overflow: hidden;
+}
+@media screen and (max-width: 768px) {
+  .wz-article iframe {
+    height: 320px !important;
+  }
+  .wz-hero {
+      background-position: 40% 0% !important;
+      padding: 6rem 0rem 30rem !important;
+
+  }
+}
+
+
+img {
+  max-width: 100%;
+}
+
+.wz-article img {
+  margin-bottom: 20px;
+
+}
+
+
+
+/**
+hero
+**/
+
+.wz-hero {
+  text-align: center;
+  width: 100%;
+  padding: 12rem 0rem 66rem;
+  background-repeat: no-repeat;
+  color: #fff;
+  background-color: rgb(0, 150, 136);
+  margin-top: 0;
+  margin-bottom: 0;
+  background: url(/assets/img/home.jpg);
+  background-size: cover;
+}
+
+
+
+.wz-hero h2 > a {
+  color: #fff;
+  text-decoration: none;
+
+}
+
+.wz-hero .button {
+    margin: 1em 0;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 0.75em 2em;
+    border-radius: 20px;
+    display: inline-block;
+    color: #fff;
+    border: 2px solid #fff;
+    background-color: transparent;
+    color: #fff;
+}
+
+
+.wz-organization {
+  background-color: #fff;
+  margin-top: 0;
+}
+
+.wz-organization-1 {
+    background: rgba(56, 52, 98, 0.96);
+    color: #fff;
+}
+
+.wz-organization-1 .thumbnail {
+    background-color: rgba(56, 52, 98, 0);
+    border-color: rgba(56, 52, 98, 0);
+}
+
+.wz-organization-1 .caption {
+    text-align: center;
+}
+
+.wz-organization-1 .caption a:hover {
+  color: #fff;
+}
+
+.wz-enterprise {
+    background-color: rgb(241, 241, 241);
+}
+
+.wz-footer {
+    padding: 50px 0;
+    color: #fff;
+    text-align: center;
+    background-color: #727f80;
+}
+
+.wz-footer p {
+    color: #fff;
+}
+
+/**
+article
+**/
+
+.wz-article {
+  background-color:#fff;
+}
+.wz-article .lead {
+  font-size: 15px;
+  color: #8c8c8c;
+  margin-bottom: 18px;
+}
+.wz-article .lead span {
+  margin-right: 8px;
+}
+
+.wz-article p {
+  margin: 24px auto;
+}
+.wz-comments {
+  background-color:#fff;
+}
+
+.wz-about section {
+  background-color:#fff;
+}
+.wz-culture section {
+  background-color:#fff;
+}
+/**
+more
+**/
+.media {
+  padding: 4px;
+  border-bottom: 1px solid #ddd;
+}
+.media .media-left a {
+  display: block;
+  width: 64px;
+  height: 64px;
+}
+
+/**
+channel
+**/
+section .title > a ,section .title > p  {
+  font-size: 22px;
+}
