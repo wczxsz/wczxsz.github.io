@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>文中深圳校友会</title>
+    <link href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+      <script src="https://cdn.staticfile.org/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://cdn.staticfile.org/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="/assets/css/style.css" media="screen" title="no title">
+    <link rel="icon" href="/assets/img/logo.jpg" type="image/x-icon">
+
+</head>
+
+<body>
+  <nav class="navbar navbar-default">
+      <div class="container-fluid">
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+              </button>
+              <a class="brand" href="/">
+                  <img alt="Brand" src="/assets/img/n.jpg" >
+                  <span>文中深圳校友会</span></a>
+          </div>
+
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+              <ul class="nav navbar-nav navbar-right">
+                  <li>
+                      <a href="/public/about/index.html" role="button" aria-haspopup="true" aria-expanded="false">关于校友会</a>
+
+                  </li>
+                  <li>
+                      <a href="/public/news/index.html" role="button" aria-haspopup="true" aria-expanded="false">新闻中心</a>
+
+                  </li>
+                  <li>
+                      <a href="/public/service/index.html" aria-haspopup="true" aria-expanded="false">校友服务</a>
+
+                  </li>
+                  <li>
+                      <a href="/public/culture/index.html" aria-haspopup="true" aria-expanded="false">椰乡文化</a>
+
+                  </li>
+
+                  <li>
+                      <a href="/public/partner/index.html" aria-haspopup="true" aria-expanded="false">友商频道</a>
+
+                  </li>
+                  <li>
+                      <a href="/public/stories/index.html" aria-haspopup="true" aria-expanded="false">校友风采</a>
+
+                  </li>
+              </ul>
+
+          </div>
+          <!-- /.navbar-collapse -->
+      </div>
+      <!-- /.container-fluid -->
+  </nav>
+
+
+    <section class="wz-article">
+      <div class="container">
+        <h2>2016年度文昌中学深圳校友会爱心助学活动圆满成功</h2>
+        <div class="lead">
+          <span class="author">林雅文</span>
+          <span class="date">2016-12-03</span>
+        </div>
+
+         <p>2016年11月5日，文昌中学深圳校友会组织了搭伙过双11的单身校友相亲活动。经过前期充分准备，活动于11月5日上午在深圳湾婚庆公园如期举办。
+ 
+一大早，会员部的组织人员就来到活动开展准备工作，部分热心校友也加入帮忙的行列中。<p>
+         <!--添加照片 start-->
+        <div class="row">
+          <div class="col-xs-12 col-sm-12 col-md-12">
+            <img src="/assets/img/aa.jpg" alt="" />
+         <p>经过幽默的自我介绍环节热身后，活动开始进入欢快的双人运气球和比划猜词，亲密的合作，默契的配合，引来了校友们的阵阵掌声和欢笑。<p>
+         <!--添加照片 start-->
+        <div class="row">
+          <div class="col-xs-12 col-sm-12 col-md-12">
+            <img src="/assets/img/bb.jpg" alt="" />
+         <p>在午歇时间，工作人员为大家准备了充满家乡气息的午饭，海南粉！！！这份充满家乡气息的午餐令同学们大呼过瘾。<p>
+         <!--添加照片 start-->
+        <div class="row">
+          <div class="col-xs-12 col-sm-12 col-md-12">
+            <img src="/assets/img/cc.jpg" alt="" />
+         <p>餐后，参加活动的同学们三五成群地在深圳湾公园美丽的林荫下或窃窃私语、或切磋牌技。工作人员则开始为下午的重头戏做准备。<p>
+         <!--添加照片 start-->
+         <div class="row">
+          <div class="col-xs-12 col-sm-12 col-md-12">
+            <img src="/assets/img/dd.jpg" alt="" />
+            <img src="/assets/img/ee.jpg" alt="" />
+            <img src="/assets/img/ff.jpg" alt="" />
+         <p>下午两点，本次活动的重头戏之一，撕名牌活动开始了。同学们分成红、绿、黄、蓝四支队伍在公园的树丛花影中展开了激烈的追逐，或静觅一角商讨对策，或派代表互商盟约，或临头倒戈，在欢乐中尽展文中人的智慧与精神风貌。<p>
+         <!--添加照片 start-->
+         <div class="row">
+          <div class="col-xs-12 col-sm-12 col-md-12">
+            <img src="/assets/img/gg.jpg" alt="" />
+            <img src="/assets/img/hh.jpg" alt="" />
+            <img src="/assets/img/ii.jpg" alt="" />
+            <img src="/assets/img/jj.jpg" alt="" />
+            <img src="/assets/img/kk.jpg" alt="" />
+         <p>在傍晚的凉风习习中，校友们两两组成一队，骑着自行车徜徉在深圳湾畔秀丽的景色中。海风带走了一天的疲劳。<p>
+         <!--添加照片 start-->
+         <div class="row">
+          <div class="col-xs-12 col-sm-12 col-md-12">
+            <img src="/assets/img/ll.jpg" alt="" />
+         <p>晚上K歌环节，校友会的重量级男神，陈文端副会长亲临现场，分享其精彩的爱情故事与人生经历，为众多年轻校友排疑解惑。<p>
+         <!--添加照片 start-->
+         <div class="row">
+          <div class="col-xs-12 col-sm-12 col-md-12">
+            <img src="/assets/img/m.jpg" alt="" />
+         <p>欢乐、纵情高歌，年轻就该如此。。。<p>
+         <!--添加照片 start-->
+        <div class="row">
+          <div class="col-xs-12 col-sm-12 col-md-12">
+            <img src="/assets/img/n.jpg" alt="" />
+           
+
+      
+    
+
+
+
+      </div>
+
+    </section>
+
+    <section class="wz-comments">
+      <div class="container">
+        <div class="ds-thread" data-thread-key="2000" data-title="新闻" data-url="http://wczxsz.com/public/news/article.html"></div>
+        <!-- 多说评论框 end -->
+        <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+        <script type="text/javascript">
+        var duoshuoQuery = {short_name:"wzszxyh"};
+        (function() {
+          var ds = document.createElement('script');
+          ds.type = 'text/javascript';ds.async = true;
+          ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+          ds.charset = 'UTF-8';
+          (document.getElementsByTagName('head')[0]
+          || document.getElementsByTagName('body')[0]).appendChild(ds);
+        })();
+        </script>
+        <!-- 多说公共JS代码 end -->
+
+      </div>
+      <!-- 多说评论框 start -->
+    </section>
+
+
+    <footer class="wz-footer">
+        <div class="container">
+          <p>投稿至 wczxszxcb#163.com</p>
+          <p>©2016 文中深圳校友会 All rights reserved.</p>
+          <p>备案号：XXXX</p>
+        </div>
+    </footer>
+    <script src="https://cdn.staticfile.org/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?dcc8ace3734b55a94d7765cbdc0fcaa8";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+
+
+</body>
+
+</html>
